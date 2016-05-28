@@ -1,0 +1,17 @@
+<item>
+      <name>Yodaka Kana Hairetsu</name>
+      <appendix>よだか配列</appendix>
+      <item>
+        <name>＜ローマ字モード＞</name>
+        <identifier>remap.jis_yodaka_roman</identifier>
+        <inputsource_only>JAPANESE</inputsource_only>
+        <include path="yodaka.xml">
+        </include>
+      </item>
+      <item>
+        <name>＜ローマ字タイピングゲームモード＞</name>
+        <identifier>remap.jis_yodaka_roman_typing</identifier>
+        <include path="yodaka.xml">
+        </include>
+      </item>
+	</item>

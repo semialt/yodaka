@@ -1,0 +1,569 @@
+<?xml version="1.0"?>
+<root>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::I, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::H, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::I, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::H, KeyCode::I, KeyCode::VK_NONE @end</autogen> 
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::R, KeyCode::I, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::H, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::R, KeyCode::I, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::H, KeyCode::I, KeyCode::VK_NONE @end</autogen> 
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::U, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::W, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::U, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::W, KeyCode::U, KeyCode::VK_NONE @end</autogen> 
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::R, KeyCode::U, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::W, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::R, KeyCode::U, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::W, KeyCode::U, KeyCode::VK_NONE @end</autogen> 
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::K, KeyCode::L, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::H, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::K, KeyCode::L, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::H, KeyCode::U, KeyCode::VK_NONE @end</autogen> 
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::O, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::F, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::O, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::F, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen> 
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::I, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::F, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::I, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::F, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen> 
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::H, KeyCode::J, ModifierFlag::NONE, @end @begin KeyCode::F, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::H, KeyCode::J, ModifierFlag::SHIFT_L, @end @begin KeyCode::F, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::Y, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::F, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::Y, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::F, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::P, KeyCode::F, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::P, KeyCode::F, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::P, KeyCode::W, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::P, KeyCode::W, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::P, KeyCode::R, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::U, KeyCode::X, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::P, KeyCode::R, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::U, ModifierFlag::SHIFT_L, KeyCode::X, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+
+
+
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::Q, ModifierFlag::NONE, @end @begin KeyCode::P, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::Q, ModifierFlag::SHIFT_L, @end @begin KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::W, ModifierFlag::NONE, @end @begin KeyCode::G, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::W, ModifierFlag::SHIFT_L, @end @begin KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::E, ModifierFlag::NONE, @end @begin KeyCode::Z, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::E, ModifierFlag::SHIFT_L, @end @begin KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::R, ModifierFlag::NONE, @end @begin KeyCode::D, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::R, ModifierFlag::SHIFT_L, @end @begin KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::T, ModifierFlag::NONE, @end @begin KeyCode::B, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::T, ModifierFlag::SHIFT_L, @end @begin KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::A, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::A, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::S, ModifierFlag::NONE, @end @begin KeyCode::K, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::S, ModifierFlag::SHIFT_L, @end @begin KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::D, ModifierFlag::NONE, @end @begin KeyCode::S, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::D, ModifierFlag::SHIFT_L, @end @begin KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::F, ModifierFlag::NONE, @end @begin KeyCode::T, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::F, ModifierFlag::SHIFT_L, @end @begin KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SEMICOLON, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L,  KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::SLASH, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::DOT, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H,  ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::COMMA, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::N, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::G, ModifierFlag::NONE, @end @begin KeyCode::H, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::M, KeyCode::G, ModifierFlag::SHIFT_L, @end @begin KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+#
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::Y, ModifierFlag::NONE, @end @begin KeyCode::V, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::Y, ModifierFlag::SHIFT_L, @end @begin KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::T, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::T, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::T, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::T, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::Y, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+#
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::M, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+#
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::R, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::W, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+#
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::S, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::D, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::F, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::G, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::Y, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::A, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Z, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::S, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::X, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::D, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::C, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::G, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::B, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::F, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::N, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::V, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::N, KeyCode::N, KeyCode::VK_NONE @end</autogen>
+
+
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::L, KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::K, KeyCode::L, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::U, KeyCode::VK_NONE @end</autogen>  
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::J, KeyCode::K, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::H, KeyCode::J, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE @end</autogen>
+
+
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::O, KeyCode::P, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::O, KeyCode::P, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::I, KeyCode::O, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::I, KeyCode::O, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::U, KeyCode::I, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::U, KeyCode::I, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Y, KeyCode::U, ModifierFlag::NONE, @end @begin KeyCode::X, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+<autogen>__SimultaneousKeyPresses__ @begin KeyCode::Y, KeyCode::U, ModifierFlag::SHIFT_L, @end @begin KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE @end</autogen>
+
+
+
+<autogen>__KeyToKey__ KeyCode::H, ModifierFlag::NONE, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::E, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::J, ModifierFlag::NONE, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::J, ModifierFlag::SHIFT_L, KeyCode::O, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::K, ModifierFlag::NONE, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::U, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::L, ModifierFlag::NONE, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::L, ModifierFlag::SHIFT_L, KeyCode::I, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::SEMICOLON, ModifierFlag::NONE, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::SEMICOLON, ModifierFlag::SHIFT_L, KeyCode::A, ModifierFlag::SHIFT_L, KeyCode::VK_NONE</autogen>
+
+
+<autogen>__KeyToKey__ KeyCode::N, ModifierFlag::NONE, KeyCode::X, KeyCode::T, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::T, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::M, ModifierFlag::NONE, KeyCode::N, KeyCode::N, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::N, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::SLASH, ModifierFlag::NONE, KeyCode::MINUS, KeyCode::VK_NONE</autogen>
+
+<autogen>__KeyToKey__ KeyCode::Y, ModifierFlag::NONE, KeyCode::R, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::U, ModifierFlag::NONE, KeyCode::Y, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::U, ModifierFlag::SHIFT_L, KeyCode::Y, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::I, ModifierFlag::NONE, KeyCode::M, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::I, ModifierFlag::SHIFT_L, KeyCode::M, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::O, ModifierFlag::NONE, KeyCode::R, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::O, ModifierFlag::SHIFT_L, KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::P, ModifierFlag::NONE, KeyCode::W, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::P, ModifierFlag::SHIFT_L, KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE</autogen>
+
+<autogen>__KeyToKey__ KeyCode::Q, ModifierFlag::NONE, KeyCode::N, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::Q, ModifierFlag::SHIFT_L, KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::W, ModifierFlag::NONE, KeyCode::G, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::E, ModifierFlag::NONE, KeyCode::Z, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::E, ModifierFlag::SHIFT_L, KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::R, ModifierFlag::NONE, KeyCode::D, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::R, ModifierFlag::SHIFT_L, KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::T, ModifierFlag::NONE, KeyCode::B, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+
+<autogen>__KeyToKey__ KeyCode::A, ModifierFlag::NONE, KeyCode::N, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::A, ModifierFlag::SHIFT_L, KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::S, ModifierFlag::NONE, KeyCode::K, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::D, ModifierFlag::NONE, KeyCode::S, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::I, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::F, ModifierFlag::NONE, KeyCode::T, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::F, ModifierFlag::SHIFT_L, KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::O, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::G, ModifierFlag::NONE, KeyCode::H, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::G, ModifierFlag::SHIFT_L, KeyCode::H, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+
+<autogen>__KeyToKey__ KeyCode::Z, ModifierFlag::NONE, KeyCode::N, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::Z, ModifierFlag::SHIFT_L, KeyCode::N, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::X, ModifierFlag::NONE, KeyCode::K, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::X, ModifierFlag::SHIFT_L, KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::C, ModifierFlag::NONE, KeyCode::S, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::C, ModifierFlag::SHIFT_L, KeyCode::S, ModifierFlag::SHIFT_L, KeyCode::U, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::V, ModifierFlag::NONE, KeyCode::T, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::V, ModifierFlag::SHIFT_L, KeyCode::T, ModifierFlag::SHIFT_L, KeyCode::E, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::B, ModifierFlag::NONE, KeyCode::W, KeyCode::A, KeyCode::VK_NONE</autogen>
+<autogen>__KeyToKey__ KeyCode::B, ModifierFlag::SHIFT_L, KeyCode::W, ModifierFlag::SHIFT_L, KeyCode::A, KeyCode::VK_NONE</autogen>
+
+
+
+</root>

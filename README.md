@@ -185,8 +185,8 @@ HJ JK KL L;
 - Realforce108UDK（All 30g。良い。常用中）
 - Happy Hacking Keyboard Professsonal JP2（良い。常用中）
 - MacBook Airのキーボード（まあ良い）
-- Truly Erogonomic Keyboard（茶軸。不具合個体だったので評価保留）
-- FILCO Majestouch 2（FICTL15。茶軸。重すぎ）
+- Truly Erogonomic Keyboard（茶軸。まあ良い）
+- FILCO Majestouch 2（FICTL15。茶軸。重すぎる）
 
 また、店頭で試用した限りでは、Surface Pro 4用のキーボードカバーも対応しているようでした。
 
